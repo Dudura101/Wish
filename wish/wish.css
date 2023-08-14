@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    margin: 50px;
+    padding: 0;
+}
+
+.fc {
+    padding: 200px;
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+
+.sc {
+    padding: 120px;
+    background-color: azure;
+    border-radius: 50%;
+    align-items: center;
+    color: blueviolet;
+}
+
+.hide {
+    display: none;
+}
